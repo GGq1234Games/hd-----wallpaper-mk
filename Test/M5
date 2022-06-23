@@ -25,13 +25,46 @@
     },
     {  
     
-        "name" : "steve",
-        "img" : "url",
-        "movieUrl" : "url"
+        "name" : "A Matter of Degrees (1990)",
+        "img" : "https://m.media-amazon.com/images/M/MV5BZTA5ZjY3MGUtNzUzMy00MWEzLWFhOGYtNjZiMTE0ZWFmMjE1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+        "movieUrl" : "https://ia601901.us.archive.org/9/items/video_archive_553-cd-207/A%20Matter%20of%20Degrees%20%281990%29%20VHSRip.mp4"
         
         
+    },
+    {  
+    
+        "name" : "Attack of the 60 Foot Centerfold 1995",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSpZodjBiOTO7pM2bhJjXHt3n4mvLsbHIgKOVPnMTIcPp2JLD1",
+        "movieUrl" : "https://archive.org/download/attack-of-the-60-foot-centerfold-1995/Attack%20of%20the%2060%20Foot%20Centerfold%201995.mp4"
+        
+    },
+    {  
+    
+        "name" : "Alice Goodbody (1974)",
+        "img" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0Vsg4j0CLxKP7gjn-BuSv4ZQ-LX_IvuWfFngdHTkmMNLCGZgP",
+        "movieUrl" : "https://ia902308.us.archive.org/0/items/greta.-2018/Alice%20Goodbody%201974.mp4"
+
+
+
+    },
+    {  
+    
+        "name" : "The.Lost.Boys.1987",
+        "img" : "https://ia804601.us.archive.org/30/items/satans-cheerleaders-1977/The.Lost.Boys.1987.jpeg",
+        "movieUrl" : "https://archive.org/download/satans-cheerleaders-1977/The.Lost.Boys.1987.mp4"
+        
+        
+    },
+    {  
+    
+        "name" : "Satans Cheerleaders 1977",
+        "img" : "https://ia904601.us.archive.org/30/items/satans-cheerleaders-1977/Satans%20Cheerleaders%201977.jpeg",
+        "movieUrl" : "https://ia904601.us.archive.org/30/items/satans-cheerleaders-1977/Satans%20Cheerleaders%201977.mp4"
+        
+        
+  
+  
+  
   }
   ]
         
-        
-
