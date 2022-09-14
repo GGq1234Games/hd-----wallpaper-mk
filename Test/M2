@@ -2,14 +2,142 @@
 
 
    {
-       "name" : "",
-        "img"  : "",
-        "movieUrl" : "https://archive.org/download/stackdevs-files-2022/MoviezWap.Vip%20-%20Batman%20%282022%29%20Telugu%20Dubbed%20DVDScr%20480p%20HQ.mp4"
-    
+       "r" : "Sci-fi/Horror 1h 11m",
+       "data" : "1933",
+       "name" : "The Invisible Man",
+        "img"  : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr_tetR6HUkeKvshIXjSOISxMOQxODyvYEj98ELAt_BJZ2qxKA",
+        "movieUrl" : "https://ia802301.us.archive.org/22/items/the.invisible.man.1933.720p.bluray.x264-hd4u/the.invisible.man.1933.720p.bluray.x264-hd4u.mp4"
+        
+        
     },
-    {  
-        "name" : "",
-        "img"  : "",
-        "movieUrl" : "https://archive.org/download/stackdevs-files-2022/MoviezWap.Vip%20-%20Batman%20%282022%29%20Telugu%20Dubbed%20DVDScr%20480p%20HQ.mp4"
+    {   "r" : "Comedy/Fantasy 1h 34m",
+        "data" : "1988",
+        "name" : "14 Going on 30",
+        "img" : "https://raw.githubusercontent.com/GGq1234Games/hd-----wallpaper-mk/main/Movies%20Wallpaper/14%20Going%20on%2030.png",
+        "movieUrl" : "https://ia801901.us.archive.org/9/items/video_archive_553-cd-207/14%20Going%20on%2030%20%281988%29%20VHSRip.mp4"
+        
+        
+    },
+    {   "r" : "R Horror/Comedy 1h 37m",
+        "data" : "1987",
+        "name" : "The Lost Boys",
+        "img" : "https://ia804601.us.archive.org/30/items/satans-cheerleaders-1977/The.Lost.Boys.1987.jpeg",
+        "movieUrl" : "https://archive.org/download/satans-cheerleaders-1977/The.Lost.Boys.1987.mp4"
+        
+        
+        
+    },
+    {   "r" : "Comedy/Fantasy 1h 44m",
+        "data" : "1988",
+        "name" : "BIG",
+        "img" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgDELbEifubGTbCnGDSwcNsNHkSTSAAgNynSPCJ3emNFVdufTw",
+        "movieUrl" : "https://ia803406.us.archive.org/17/items/american.-beauty.-1999/Big.1988.mp4"
+        
+        
+    },
+    {   "r" : "Drama 2h 53m",
+        "data" : "1996",
+        "name" : "Titanic",
+        "img" : "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3178/31782207_so.jpg",
+        "movieUrl" : "https://ia801802.us.archive.org/35/items/titanic-1996-full-movie-1080p-6-ynd-9gu-9-zvk/Titanic%201996%20Full%20movie%201080p-6YNd9gu9ZVk.mp4"
+        
+        
+    },
+    {   "r" : "Thriller/Mystery 2h 1m",
+        "data" : "1976",
+        "name" : "Family Plot",
+        "img" : "https://www.jasonbovberg.com/wp-content/uploads/2013/08/FamilyPlot.jpg",
+        "movieUrl" : "https://ia802508.us.archive.org/30/items/6.-8-family-plot-1976-alfred-hitchcock/6.%208%20Family%20Plot%20%281976%29%20Alfred%20Hitchcock.mp4"
+        
+        
+        },
+    {   "r" : "1",
+        "data" : "1985",
+        "name" : "24 Hours to Midnight",
+        "img" : "https://m.media-amazon.com/images/M/MV5BOGMwM2U3MTktNzM2Mi00NGU1LTk2NTEtMDA5ODk0N2E4Y2Q3XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+        "movieUrl" : "https://archive.org/download/video_archive_553-cd-207/24%20Hours%20to%20Midnight%20%281985%29%20VHSRip.mp4"
+        
+        
+        
+            },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "A Day of Judgment",
+        "img" : "",
+        "movieUrl" : "h"
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+        
+                },
+    {   "r" : "1",
+        "data" : "2",
+        "name" : "37",
+        "img" : "4",
+        "movieUrl" : "5u"
+        
+        
+
+    
+        
   }
   ]
+  
+  
+  
+  
